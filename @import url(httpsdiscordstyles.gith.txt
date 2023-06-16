@@ -1,0 +1,52 @@
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('C:\Users\Maykotto\Documents\22\HorizontalServerList.css');
+
+:root {
+
+--background-image: url("https://vsthemes.org/uploads/posts/2021-08/1628456897_765774.webp");
+--background-image-blur: 0px;
+--background-image-opacity: 1;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url("https://vsthemes.org/uploads/posts/2021-08/1628456897_765774.webp");
+--popout-modal-blur: 20px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://i.pinimg.com/564x/5a/d7/f5/5ad7f596b22df71c0ca4a0472c0d4734.jpg');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.48;
+--left-brightness: 0.70;
+--middle-brightness: 0.30;
+--right-brightness: 0.44;
+--popout-modal-brightness: 0;
+--gradient-primary: 12, 13, 43; 
+--gradient-secondary: 163, 80, 249;
+--gradient-direction: 185deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 13px;
+--window-roundness: 25px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #c700f4;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Rajdhani';
+--update-notice-1: none;
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 1px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2.5px;
+--rs-medium-width: 2.5px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #f76aff;
+--rs-idle-color: #a350f9;
+--rs-dnd-color: #762955;
+--rs-offline-color: #0c0d2b;
+--rs-streaming-color: #3b1850;
+--rs-invisible-color: #0c0d2b;
+--rs-phone-visible: block;
+}
